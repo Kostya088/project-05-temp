@@ -11,15 +11,16 @@
 
 /* Sections style */
 @import url('./header.css');
-@import url('./nav-bar.css');
 
 @import url('./hero.css');
-@import url('./mission.css');
-@import url('./difference.css');
-@import url('./moments.css');
-@import url('./join.css');
-@import url('./reviews.css');
+@import url('./welcome.css');
+@import url('./quality.css');
+@import url('./experience.css');
+@import url('./subscribe.css');
+@import url('./testimonials.css');
 @import url('./location.css');
 
 @import url('./footer.css');
+
+@import url('./mobile-menu.css');
 @import url('./modal.css');
